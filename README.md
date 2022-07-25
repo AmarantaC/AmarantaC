@@ -5,7 +5,7 @@ Soy Amaranta y vivo en Mexico.
 Estudie arquitectura pero despues de ejercer durante algunos años dije "Mamá me equivoque de carrera"... 
 Y aqui estoy aprendiendo a programar.
 
-Asi que por lo pronto ya aprendi HTML CSS y estoy aprendiendo Javascript porque me quiero convertir en la mejor Frontend developer del oeste. 
+Asi que por lo pronto ya aprendi HTML CSS y estoy aprendiendo Javascript porque me quiero convertir en la mejor front end developer del oeste. 
 
 Tambien uso Sass, Git, Photoshop e Illustrator entre otros programas de diseño.
 
