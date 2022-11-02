@@ -1,15 +1,12 @@
 ### Hola mundo 👋
 
-Soy Amaranta y vivo en Mexico.
+Soy Amaranta de la Rosa
 
-Estudie arquitectura pero despues de ejercer durante algunos años dije "Mamá me equivoque de carrera"... 
-Y aqui estoy aprendiendo a programar.
+Me considero una persona creativa y comprometida, siento una gran fascinación por las posibilidades que tienen las herramientas tecnológicas y el diseño para mejorar la calidad de vida y experiencias de las personas.
 
-Asi que por lo pronto ya aprendi HTML CSS y estoy aprendiendo Javascript porque me quiero convertir en la mejor front end developer del oeste. 
+Me gusta trabajar en proyectos retadores y me interesa seguir participando en trabajos que me permitan hacer uso de mis habilidades y conocimientos en HTML, CSS, Javascript, Sass y Git como Diseñadora y Desarrolladora Web.
 
-Tambien uso Sass, Git, Photoshop e Illustrator entre otros programas de diseño.
-
-Me gusta mucho dibujar y estar en casa con mi gata Mel.
+Actualmente estoy en proceso de certificación como UX Designer por Google.
 
 <!--
 **AmarantaC/AmarantaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
